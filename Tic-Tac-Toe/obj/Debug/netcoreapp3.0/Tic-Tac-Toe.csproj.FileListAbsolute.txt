@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\netcoreapp3.0\Tic-Tac-Toe.exe
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\netcoreapp3.0\Tic-Tac-Toe.deps.json
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\netcoreapp3.0\Tic-Tac-Toe.runtimeconfig.json
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\netcoreapp3.0\Tic-Tac-Toe.runtimeconfig.dev.json
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\netcoreapp3.0\Tic-Tac-Toe.dll
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\netcoreapp3.0\Tic-Tac-Toe.pdb
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\netcoreapp3.0\Tic-Tac-Toe.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\netcoreapp3.0\Tic-Tac-Toe.AssemblyInfo.cs
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\netcoreapp3.0\Tic-Tac-Toe.dll
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\netcoreapp3.0\Tic-Tac-Toe.pdb
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\netcoreapp3.0\Tic-Tac-Toe.csprojAssemblyReference.cache
